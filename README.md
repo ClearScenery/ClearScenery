@@ -1,4 +1,4 @@
-### Hi there 👋
+### 求职Java后端或者Web前端 👋
 
 <!--
 **ClearScenery/ClearScenery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-> 您好，我的名字叫顾浩，毕业于普通二类本科，性格随和，喜欢软件工程这个专业，更喜欢互联网这个行业，平常喜欢关注互联网世
+您好，我的名字叫顾浩，毕业于普通二类本科，性格随和，喜欢软件工程这个专业，更喜欢互联网这个行业，平常喜欢关注互联网世
 界的新动态，有着时刻准备接受新知识新技术的心态。为人谦和，做事谨慎，有极强的责任感，
 工作积极认真，善于团结他人进行团队协作。
 
-> 兴趣爱好：
+兴趣爱好：
 喜欢看书，浏览技术博客，了解互联网技术，如github, gitee ,掘金，知乎，CSDN，51CTO等。
 
-
+联系方式：clearscenery@163.com
 
 + 熟悉JAVA编程语言，Oracle，MySQL数据库。
 + 熟练使用Redis，RabbitMQ中间件。
